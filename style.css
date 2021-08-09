@@ -115,6 +115,9 @@ header ul li a:hover:after{
     letter-spacing: 1px;
     text-decoration: none ;    
 }
+.content .text-content a:hover{
+    background: #f0f ;
+}
 .content .imagebox{
     width: 600px;
     display: flex;
